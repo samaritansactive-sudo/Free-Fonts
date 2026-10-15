@@ -1,0 +1,14 @@
+DISCLAIMER:
+
+These reverse white fonts were built to be used in reference publications requiring white glyphs on black background with a complete. 
+
+Please upload this font file to “wakamaifondue.com” to test the glyphs.
+
+ URL: https://wakamaifondue.com/
+
+
+Until today [15th October 2026] such free fonts were available for a few limited Upper case and lower case Western letters and numerals.
+
+Only a limited series of Western glyphs are available. [Please uploads this font file to “wakamaifondue.com” to test the glyphs] as: the setting up of glyphs of oriental language fonts [Hindi, Arabic. Kanji etc.] require a large manual labor resource as each Unicode oriental glyph has to be individually analyzed for stroke direction [clockwise or anticlockwise] and kerning  and tested in metrics before publication.
+
+The designer does not hold himself responsible for any possible infringement of copyrights of other commercial r non commercial font designers.
